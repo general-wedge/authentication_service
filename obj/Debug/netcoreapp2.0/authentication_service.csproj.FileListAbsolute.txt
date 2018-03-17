@@ -1,0 +1,11 @@
+c:\users\austin\source\repos\authentication_service\authentication_service\bin\Debug\netcoreapp2.0\authentication_service.deps.json
+c:\users\austin\source\repos\authentication_service\authentication_service\bin\Debug\netcoreapp2.0\authentication_service.runtimeconfig.json
+c:\users\austin\source\repos\authentication_service\authentication_service\bin\Debug\netcoreapp2.0\authentication_service.runtimeconfig.dev.json
+c:\users\austin\source\repos\authentication_service\authentication_service\bin\Debug\netcoreapp2.0\authentication_service.dll
+c:\users\austin\source\repos\authentication_service\authentication_service\obj\Debug\netcoreapp2.0\authentication_service.csproj.CoreCompileInputs.cache
+c:\users\austin\source\repos\authentication_service\authentication_service\obj\Debug\netcoreapp2.0\authentication_service.AssemblyInfoInputs.cache
+c:\users\austin\source\repos\authentication_service\authentication_service\obj\Debug\netcoreapp2.0\authentication_service.AssemblyInfo.cs
+c:\Users\Austin\source\repos\authentication_service\authentication_service\bin\Debug\netcoreapp2.0\authentication_service.pdb
+c:\Users\Austin\source\repos\authentication_service\authentication_service\obj\Debug\netcoreapp2.0\authentication_service.dll
+c:\Users\Austin\source\repos\authentication_service\authentication_service\obj\Debug\netcoreapp2.0\authentication_service.pdb
+c:\Users\Austin\source\repos\authentication_service\authentication_service\obj\Debug\netcoreapp2.0\authentication_service.csprojResolveAssemblyReference.cache
